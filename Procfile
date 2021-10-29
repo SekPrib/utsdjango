@@ -1,2 +1,2 @@
 migrate: python manage.py migrate
-web: gunicorn utsprogramlanjut.wsgi
+web: gunicorn project_name.wsgi
